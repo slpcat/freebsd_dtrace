@@ -1,2 +1,2 @@
 # freebsd_dtrace
-dtrace script collections for freebsd
+dtrace scripts collections for freebsd
